@@ -2,7 +2,9 @@
 
 Dashboard interaktif berbasis **Streamlit** untuk menganalisis ±2.000 lagu hits Spotify (1998-2020): karakter audio, genre, artis, dan hubungannya dengan skor popularitas.
 
-> Proyek Data Analyst [...nama mata kuliah / kelompok...]
+Link : https://studyclub2026insight.streamlit.app/
+
+> Proyek  Study Club Data Analyst Kelompok 1
 
 ## 👥 Tim
 - Line Budiarti
